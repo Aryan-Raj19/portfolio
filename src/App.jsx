@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <div className="bg-amber-700 text-4xl text-blue-500 min-h-screen flex items-center justify-center">
-      HII
+      Hello
     </div>
     </>
   )
